@@ -108,7 +108,7 @@ The JUnit tests for the projects can be run using
 Running this in the *gwt* directory will run the GWT JUnit tests.
 Running it in the *vaadin* directory will run the Vaadin JUnit tests.
 
-Running the Vaadin TestBench tests currently requires access to a correctly configured TestBench 2 cluster, only available inside Vaadin.
+Running the Vaadin TestBench tests currently requires access to a correctly configured TestBench 2 cluster, which is currently only available internally at Vaadin (the company).
 
 Building a package
 =====
